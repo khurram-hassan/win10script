@@ -4,6 +4,9 @@ I forked this project from Chris Titus Tech's [Github project](https://github.co
 # win10script
 This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github. I also added Chocolatey and other tools to the script that I install on every machine.
 
+## Powershell Run As ADMIN
+Open powershell as Administrator and copy paste below code and press Enter to download and execute this script on your Windows PC.
+
 ## My Additions
 
 - ~~Dark Mode~~
