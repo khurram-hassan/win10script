@@ -1,12 +1,12 @@
 # Declaration
-I forked this project from Chris Titus Tech's Github project (https://github.com/ChrisTitusTech/win10script/tree/master). I like his work and wanted to modify this script according to my need.
+I forked this project from Chris Titus Tech's [Github project](https://github.com/ChrisTitusTech/win10script/tree/master)]. I like his work and wanted to modify this script according to my need.
 
 # win10script
 This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github. I also added Chocolatey and other tools to the script that I install on every machine.
 
 ## My Additions
 
-- Dark Mode
+- ~~Dark Mode~~
 - One Command to launch and run
 - Chocolatey Install
 - O&O Shutup10 CFG and Run
